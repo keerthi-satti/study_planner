@@ -1,8 +1,8 @@
-# Study Planner using Python and Google Sheets
+# Study Planner (Python)
 
-This project generates a daily study plan based on weekly study hours.
-Google Sheets is used for data entry and output visualization, while Python
-handles the scheduling logic.
+A simple Python-based study planner that generates daily study hours from weekly input data.
+
+The project focuses on basic data processing, logical computation, and working with spreadsheet-style data.
 
 ## Tools Used
 - Python
@@ -10,12 +10,16 @@ handles the scheduling logic.
 - CSV file handling
 
 ## How It Works
-1. User enters study data in Google Sheets
-2. Data is downloaded as CSV
-3. Python script processes the data
-4. Output CSV is generated and uploaded back to Google Sheets
+- Study data is entered in Google Sheets
+- The data is downloaded as a CSV file
+- A Python script processes the data
+- Daily study hours are calculated
+- The output is imported back into the same Google Sheet
 
-## Learning Outcome
-- Practiced Python file handling
-- Applied basic programming logic
-- Worked with spreadsheet-based data
+## Key Learnings
+- Python file handling
+- Loops and conditional logic
+- Batch-based data processing
+
+## Author
+Keerthi Satti
